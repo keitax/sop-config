@@ -1,0 +1,13 @@
+management:
+  security:
+    enabled: false
+
+logging:
+  level:
+    io:
+      pivotal:
+        training: INFO
+
+security:
+  basic:
+    enabled: false
